@@ -1,6 +1,8 @@
 # Music-synced-RGB-Lights
 Sync your RGB lights with sound: allotting any frequency range to each colour
 
+https://youtu.be/r-f_4nSMtbU  
+
 Hey all..
 
 I've synced my RGB LED strip with sound frequencies..  
